@@ -1,0 +1,8 @@
+[api]
+port = "8000"
+
+[database]
+host = "localhost"
+user = "postgres"
+pass = "admin"
+database = "todo"
